@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/explosion3.wav-26bff1abe99ce146aa884c3d79703a54.sample"
+
+[deps]
+
+source_file="res://sfx/explosions/explosion3.wav"
+dest_files=[ "res://.import/explosion3.wav-26bff1abe99ce146aa884c3d79703a54.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

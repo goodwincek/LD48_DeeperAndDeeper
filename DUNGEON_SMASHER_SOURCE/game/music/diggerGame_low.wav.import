@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/diggerGame_low.wav-c4537cd4165882efd870cbeaf55671ee.sample"
+
+[deps]
+
+source_file="res://music/diggerGame_low.wav"
+dest_files=[ "res://.import/diggerGame_low.wav-c4537cd4165882efd870cbeaf55671ee.sample" ]
+
+[params]
+
+force/8_bit=true
+force/mono=true
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=true
+edit/loop=true
+compress/mode=1
